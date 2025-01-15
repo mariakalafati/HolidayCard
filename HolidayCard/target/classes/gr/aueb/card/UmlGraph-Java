@@ -1,0 +1,10 @@
+package javax.swing;
+/**
+ * @opt noattributes
+ */
+public class JFrame {}
+
+/**
+ * @opt noattributes
+ */
+public class JPanel {}
